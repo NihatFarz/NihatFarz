@@ -1,4 +1,4 @@
-<h1 align="center">Salam, mən Nihat! 👋</h1>
+<h1 align="center">Salam, mən Nihat Farz! 👋</h1>
 <p align="center">Texnologiya ilə nəfəs alan bir xəyalpərəst · Gələcəyi kodlayan bir beyin · AI ilə danışan bir insan</p>
 
 ---
@@ -7,6 +7,8 @@
 Mən NihatFarz — proqramçı, texnoloji yaradıcılıq aşığı və gələcək dünyaları formalaşdırmaq istəyən bir beyin.  
 Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə yazılmış bir mesajdır.
 
+---
+
 ### 🚀 Əsas Maraqlarım
 - 🧬 Süni İntellekt və Machine Learning
 - 🧠 Öz GPT modelimi yaratmaq
@@ -14,8 +16,29 @@ Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə
 - 💡 Rəqəmsal Klon · Holografik Linda AI
 - 🏫 Təhsil üçün “Kitabça” Platforması
 
-### 🛠️ İstifadə etdiyim Texnologiyalar:
-`Python` · `JavaScript` · `Dart` · `Node.js` · `Flutter` · `Firebase` · `Heroku` · `Linux` · `Raspberry Pi` · `OpenAI API`
+---
+
+### 🛠️ İstifadə etdiyim Texnologiyalar və Vasitələr:
+
+**🧑‍💻 Proqramlaşdırma dilləri**  
+`Python` · `JavaScript` · `TypeScript` · `PHP` · `Java` · `C++` · `C#` · `HTML` · `CSS` · `Dart`
+
+**🔧 Frameworks və Kitabxanalar**  
+`Node.js` · `Express.js` · `React` · `Next.js` · `Flutter` · `Bootstrap` · `Tailwind CSS` · `jQuery`
+
+**💾 Verilənlər Bazası və Backend**  
+`MongoDB` · `MySQL` · `PostgreSQL` · `Firebase` · `Prisma` · `Supabase`
+
+**🚀 DevOps və Deployment**  
+`Docker` · `Heroku` · `Netlify` · `Vercel` · `GitHub Actions` · `Railway` · `Render`  
+`AWS` · `Azure` · `Google Cloud Platform (GCP)`
+
+**🧠 AI və Data Tools**  
+`OpenAI API` · `GPT-3.5 / GPT-4` · `TensorFlow` · `Keras` · `Pandas` · `NumPy` · `scikit-learn`
+
+**📦 Digər Vasitələr və Texnologiyalar**  
+`Raspberry Pi` · `Linux` · `Ubuntu` · `Git` · `Figma` · `Postman` · `VS Code`  
+`OBS Studio` · `Meta Quest 3 SDK` · `Telegram Bot API` · `TTS / STT sistemləri`
 
 ---
 
@@ -29,7 +52,7 @@ Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə
 ---
 
 ### 🔗 Mənimlə əlaqə
-- 📡 Telegram: [Texno Baku](https://t.me/nihatfarz)
+- 📡 Telegram: [Texno Baku](https://t.me/NihatFarz)
 - 🎥 YouTube: [NihatFarz](https://www.youtube.com/@NihatFarz)
 - 💼 LinkedIn: [linkedin.com/in/nihatfarz](https://www.linkedin.com/in/nihatfarz)
 - 📧 E-mail: `nihatfarz@gmail.com`
@@ -38,4 +61,3 @@ Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə
 
 > “Kod bir alət deyil — o, azadlığın özüdür.”  
 > – *Nihat 「 FARZ 」*
-
