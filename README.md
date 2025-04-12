@@ -52,7 +52,7 @@ Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə
 ---
 
 ### 🔗 Mənimlə əlaqə
-- 📡 Telegram: [Texno Baku](https://t.me/NihatFarz)
+- 📡 Telegram: [Nihat Farz](https://t.me/NihatFarz)
 - 🎥 YouTube: [NihatFarz](https://www.youtube.com/@NihatFarz)
 - 💼 LinkedIn: [linkedin.com/in/nihatfarz](https://www.linkedin.com/in/nihatfarz)
 - 📧 E-mail: `nihatfarz@gmail.com`
