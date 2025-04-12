@@ -12,19 +12,8 @@
 <p align="center">
 <a href="https://telegram.me/nihatfarz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/nihatfarz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Mənə bir dənə Türk qəhvəsi al :D" height="45" width="163" ></a>
-              
 
-   <br>
-  <br>
-  
-<p align="center">
-<h3>🎶 「 FARZ 」</h3>
-<a href="https://open.spotify.com/user/d0nmji76vbkcdxnrjgfyv1tik">
-<img src="https://itstommi.vercel.app/api?theme=dark&spin=true&rainbow=true" alt="Current Spotify Song">
-</a>
-  
+            
   
   
    <br>
