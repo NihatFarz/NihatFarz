@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 Haqqımda
-Mən NihatFarz — proqramçı, texnoloji yaradıcılıq aşığı və gələcək dünyaları formalaşdırmaq istəyən bir beyin.  
+Mən Nihat Farz — proqramçı, texnoloji yaradıcılıq aşığı və gələcək dünyaları formalaşdırmaq istəyən bir beyin.  
 Yazdığım hər bir sətir kod sadəcə bir funksiya deyil — bu, gələcəyə yazılmış bir mesajdır.
 
 ---
